@@ -1,0 +1,6 @@
+[book]
+authors = ["Script"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MDBook template"
